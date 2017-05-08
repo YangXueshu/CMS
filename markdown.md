@@ -20,38 +20,38 @@
 #### 4.Markdown的编辑工具有哪些？
 ##### Windows 平台
 ###### 1. GitHub Atom
-2. MarkdownPad
-3. MarkPad
+###### 2. MarkdownPad
+###### 3. MarkPad
 
-- Linux 平台
-ReText
+##### Linux 平台
+###### ReText
 
-- Mac 平台
-Mou
+##### Mac 平台
+###### Mou
 
-- 在线编辑器
-1. Markable.in
-2. Dillinger.io
+##### 在线编辑器
+###### 1. Markable.in
+###### 2. Dillinger.io
 
-- 浏览器插件
-MaDe (Chrome)
+##### 浏览器插件
+###### MaDe (Chrome)
 
-- 高级应用(Sublime Text 2 + MarkdownEditing 教程)
-1. Sublime Text 2
-2. MarkdownEditing
-3. 教程
+##### 高级应用(Sublime Text 2 + MarkdownEditing 教程)
+###### 1. Sublime Text 2
+###### 2. MarkdownEditing
+###### 3. 教程
 
 #### 5.Markdown的区块元素和区段元素分别包含哪些？
-- 区块元素：
-1. 段落和换行（中间空一行）
-2. 标题
-3. 区块引用（>分层，内容成为独立段 >第一层 >>第二层）
-4. 列表（有序：数字加英文句号，数字随意取值无影响  无序：*+-都可以）
-5. 代码区块（四个空格or一个tab）
-6. 分割线
+##### 区块元素：
+###### 1. 段落和换行（中间空一行）
+###### 2. 标题
+###### 3. 区块引用（>分层，内容成为独立段 >第一层 >>第二层）
+###### 4. 列表（有序：数字加英文句号，数字随意取值无影响  无序：*+-都可以）
+###### 5. 代码区块（四个空格or一个tab）
+###### 6. 分割线
 
-- 区段元素：
-1. 链接（被链接内容包在中括号[]里面，小括号()里面放链接地址）
-2. 强调
-3. 代码（加反引号【tab上面的键】，会高亮显示）
-4. 图片（`![Alt text](/path/to/img.jpg)`）
+##### 区段元素：
+###### 1. 链接（被链接内容包在中括号[]里面，小括号()里面放链接地址）
+###### 2. 强调
+###### 3. 代码（加反引号【tab上面的键】，会高亮显示）
+###### 4. 图片（`![Alt text](/path/to/img.jpg)`）
