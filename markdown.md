@@ -18,8 +18,8 @@
 
 
 #### 4.Markdown的编辑工具有哪些？
-######## Windows 平台
-######### 1. GitHub Atom
+##### Windows 平台
+###### 1. GitHub Atom
 2. MarkdownPad
 3. MarkPad
 
